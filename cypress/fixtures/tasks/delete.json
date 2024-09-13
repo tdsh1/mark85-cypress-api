@@ -1,0 +1,30 @@
+{
+    "remove": {
+        "user": {
+            "name": "Felipe Remove1",
+            "email": "feliperemove1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "Un1que get1",
+            "tags": [
+                "r3m0ve1",
+                "r3m0ve2"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Felipe Not Found Remove1",
+            "email": "felipenotfoundRemove1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "N0t found get1",
+            "tags": [
+                "n0tfoundr3move1",
+                "n0tfoundr3move2"
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "login": {
+    "name": "Felipe Tedeschi",
+    "email": "test4@gmail.com",
+    "password": "1q2w3e"
+  },
+  "inv_pass": {
+    "email": "test1@gmail.com",
+    "password": "1q2w3e123"
+  },
+  "email_404": {
+    "email": "test53251@gmail.com",
+    "password": "1q2w3e"
+  },
+  "create": {
+    "name": "Felipe Tedeschi",
+    "email": "test2@gmail.com",
+    "password": "1q2w3e"
+  },
+  "duplicated_email": {
+    "name": "Felipe Tedeschi",
+    "email": "test1@gmail.com",
+    "password": "1q2w3e"
+  },
+  "required": {
+    "name": "Campos Required" ,
+    "email": "test3@gmail.com",
+    "password": "1q2w3e"
+  }
+}

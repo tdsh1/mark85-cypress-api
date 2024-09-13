@@ -1,0 +1,30 @@
+{
+    "update": {
+        "user": {
+            "name": "Felipe Put1",
+            "email": "felipeput1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "put1",
+            "tags": [
+                "put1",
+                "put2"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Felipe Not Found put",
+            "email": "felipenotfoundput1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "N0t found get1",
+            "tags": [
+                "n0tfoundput1",
+                "n0tfoundput2"
+            ]
+        }
+    }
+}

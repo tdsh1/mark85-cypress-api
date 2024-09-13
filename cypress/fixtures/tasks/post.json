@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Felipe Task1",
+            "email": "felipetask1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "task1",
+            "tags": [
+                "tag1",
+                "tag2",
+                "tag3"
+            ]
+        }
+    },
+    "dup": {
+        "user": {
+            "name": "Felipe TaskDuplicada1",
+            "email": "felipetaskdup1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "taskDup1"
+        }
+    }
+}

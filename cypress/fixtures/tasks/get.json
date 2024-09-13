@@ -1,0 +1,57 @@
+{
+    "list": {
+        "user": {
+            "name": "Felipe Get1",
+            "email": "felipe1@get.com",
+            "password": "1q2w3e"
+        },
+        "tasks": [
+            {
+                "name": "t3st get2",
+                "tags": [
+                    "get2"
+                ]
+            },
+            {
+                "name": "t3st get1",
+                "tags": [
+                    "get1"
+                ]
+            },
+            {
+                "name": "t3st get3",
+                "tags": [
+                    "get3"
+                ]
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "Felipe Unique Get1",
+            "email": "felipeunique1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "Un1que get1",
+            "tags": [
+                "un1que1",
+                "un1que2"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Felipe Not Found1",
+            "email": "felipenotfound1@gmail.com",
+            "password": "1q2w3e"
+        },
+        "task": {
+            "name": "N0t found get1",
+            "tags": [
+                "n0tfound1",
+                "n0tfound2"
+            ]
+        }
+    }
+}
